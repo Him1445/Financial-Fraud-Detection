@@ -664,9 +664,9 @@ financial data.
 
 ## 👨‍💻 Author
 
-**Prince Raj**
+**Himanshu Meena**
 
-B.Tech --- Chemical Engineering\
+B.Tech --- Mechanical Engineering\
 Indian Institute of Technology Jodhpur
 
 ------------------------------------------------------------------------
